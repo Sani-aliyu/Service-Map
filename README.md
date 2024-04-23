@@ -1,2 +1,5 @@
 # Service-Map
-a platform for finding local services such as lorry stations, chop bars etc.
+
+A platform for easy finding of services on the Map.
+
+![alt text](<Screenshot (29).png>)
