@@ -1,5 +1,5 @@
 # Service-Map
 
 A platform for easy finding of services on the Map.
-
-![alt text](<Screenshot (33).png>)-----![alt text](<Screenshot (34).png>)![alt text](<Screenshot (37).png>)-----![alt text](<Screenshot (36).png>)
+This project is limited to a specific geagraphic area.
+![alt text](<Screenshot (38).png>)**\*\***\_**\*\*** ![alt text](<Screenshot (39).png>) ![alt text](<Screenshot (33)-1.png>)\***\*\_\_\_\*\*** ![alt text](<Screenshot (35).png>)
